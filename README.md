@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Prasanna-Gurjala/Prasanna-Gurjala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about **Artificial Intelligence, Machine Learning, and Python Development**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💡 Enthusiastic about AI, Deep Learning, and Data Science
+- 🛠️ Always exploring new technologies and working on exciting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Programming Languages**: Python, C++, JavaScript
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
+- **Databases**: MySQL, MongoDB
+- **Other Tools**: Git,  VS Code
+
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prasanna-gurjala-3872a8250/)
+- 📧 Email: gurjalaprasanna@gmail.com
+
+### ⚡ Fun Fact
+I love solving coding challenges and exploring AI innovations!
+
+Thanks for visiting my profile! 😊
